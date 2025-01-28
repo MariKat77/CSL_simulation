@@ -19,6 +19,7 @@ Projekt realizuje symulację systemu kolejkowego z użyciem biblioteki **CSL** w
 - **.NET Framework** (wersja 4.7.2).
 - Biblioteka **CSL**:
   - Dodaj ją jako referencję w projekcie.
+- Biblioteka MathNet.Iridium-2008.8.16.470
 
 ## 🚀 Instalacja
 
